@@ -1,0 +1,10 @@
+.DS_Store
+out/
+node_modules/
+dist/*.map
+.vscode
+.github
+src
+LICENSE
+coffeesense.config.js
+webpack.nodejs.config.js
