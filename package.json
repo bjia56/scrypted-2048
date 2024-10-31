@@ -1,6 +1,6 @@
 {
-   "name": "@bjia56/2048",
-   "version": "0.0.0",
+   "name": "@bjia56/scrypted-2048",
+   "version": "0.0.1",
    "description": "2048 for Scrypted",
    "license": "Apache",
    "keywords": [
