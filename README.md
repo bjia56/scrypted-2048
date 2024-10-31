@@ -1,2 +1,2 @@
-# scrypted-2048
+# 2048
 Play 2048 in Scrypted!
